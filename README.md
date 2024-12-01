@@ -1,9 +1,12 @@
 
 
 Project Overview
+
 The Personal Training Project is a web application designed to help manage customer training activities. Built using React, the project allows users to organize, display, and track customer training sessions, visualize statistics, and provide easy-to-use interfaces for both managing and viewing training data. Material-UI is used for styling and layout, while Chart.js is integrated for data visualization (e.g., bar charts) to represent various training statistics.
 
-Features
+Features:
+
+
 Customer Management: Users can view and manage customer training details, including upcoming sessions and training history.
 Training List: Displays a list of training sessions, allowing users to add new sessions and see details of each session.
 Calendar View: Shows upcoming training sessions in a calendar format for easy scheduling and tracking.
