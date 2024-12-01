@@ -14,12 +14,12 @@ Frontend: React, Material-UI
 Data Visualization: Chart.js for training statistics visualization
 Routing: React Router DOM for page navigation
 Project Structure
+
+
 src/
 ├── components/
-│   ├── AddTraining.jsx
-        addcustomers.jsx
-        editcustomers.jsx
-│           
+│   ├── AddTraining.jsx        # Form for adding new training sessions
+│   ├── Barcharts.jsx          # Bar chart component displaying training statistics
 │   ├── api.js                 # API functions to interact with backend
 │   └── searchAppBar.jsx       # Search bar component for filtering data
 ├── pages/
@@ -29,6 +29,14 @@ src/
 │   └── trainingsList.jsx      # Page for displaying list of training sessions
 ├── App.jsx                    # Main App component with routing setup
 └── main.jsx                   # Entry point of the application
+
+
+
+
+
+
+
+
 Getting Started
 1. Clone the repository
 Clone the repository to your local machine:
