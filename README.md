@@ -16,6 +16,8 @@ Routing: React Router DOM for page navigation
 Project Structure
 
 
+
+
 src/
 ├── components/
 │   ├── AddTraining.jsx        # Form for adding new training sessions
@@ -29,8 +31,6 @@ src/
 │   └── trainingsList.jsx      # Page for displaying list of training sessions
 ├── App.jsx                    # Main App component with routing setup
 └── main.jsx                   # Entry point of the application
-
-
 
 
 
