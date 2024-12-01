@@ -8,17 +8,40 @@ Features:
 
 
 Customer Management: Users can view and manage customer training details, including upcoming sessions and training history.
+
 Training List: Displays a list of training sessions, allowing users to add new sessions and see details of each session.
+
 Calendar View: Shows upcoming training sessions in a calendar format for easy scheduling and tracking.
+
 Training Statistics: Visual representation of training data using charts, like bar charts, to track training durations and customer performance.
+
 Add Training Sessions: Users can add new training sessions by filling out a simple form with details such as customer, training type, and time.
+
 Search Functionality: A search bar allows filtering through training sessions and customer data based on specified criteria (e.g., customer name, training details).
+
+
+
+
+
 Technologies Used
-React: Used to build the frontend of the application, allowing dynamic content updates and interactive features.
-Material-UI: Provides a clean and responsive design using pre-built components for the user interface.
+React:      Used to build the frontend of the application, allowing dynamic content updates and interactive features.
+
+Material-UI:     Provides a clean and responsive design using pre-built components for the user interface.
+
 Chart.js: Integrated for visualizing training data, including statistics like training duration and customer participation.
+
 React Router DOM: Handles the navigation between different views (pages) of the application.
-Project Structure
+
+
+
+
+
+
+
+Project Structure:
+
+
+
 The application is structured as follows:
 
 Main Components: These include forms for adding new training sessions, lists for displaying training data, and pages for viewing detailed customer or training statistics. The main components include:
