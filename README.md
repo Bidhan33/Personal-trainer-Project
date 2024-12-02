@@ -1,19 +1,67 @@
 <h1 align="center" id="title">Personal Trainer</h1>
 
-<p id="description">The Personal Training Project is a web application designed to help manage customer training activities. Built using React the project allows users to organize display and track customer training sessions visualize statistics and provide easy-to-use interfaces for both managing and viewing training data. Material-UI is used for styling and layout while Chart.js is integrated for data visualization (e.g. bar charts) to represent various training statistics.</p>
+<p id="description">
+The Personal Trainer project is a comprehensive web application designed to streamline the management of customer training activities. This app offers an intuitive interface for tracking, managing, and analyzing training sessions while providing insightful statistics. Built using React, the project incorporates advanced features like responsive design, data visualization, and seamless navigation between pages. Material-UI is leveraged for a professional and clean UI, while Recharts is integrated for presenting meaningful statistics in the form of visual charts. The application focuses on delivering a user-friendly experience for customers and trainers alike.
+</p>
+
+---
 
 <h2>🚀 Demo</h2>
 
-[https://personal-trainer-d9bf4d.netlify.app/](https://personal-trainer-d9bf4d.netlify.app/)
+You can explore the live demo of the project here:  
+[Personal Trainer Application](https://personal-trainer-d9bf4d.netlify.app/)
 
-  
-  
+---
+
 <h2>🧐 Features</h2>
 
-Here're some of the project's best features:
+The application boasts the following key features:
 
-*   Customer Management: Users can view and manage customer training details including upcoming sessions and training history. Training List: Displays a list of training sessions allowing users to add new sessions and see details of each session. Calendar View: Shows upcoming training sessions in a calendar format for easy scheduling and tracking. Training Statistics: Visual representation of training data using charts like bar charts to track training durations and customer performance. Add Training Sessions: Users can add new training sessions by filling out a simple form with details such as customer training type and time. Search Functionality: A search bar allows filtering through training sessions and customer data based on specified criteria (e.g. customer name training details). Technologies Used React: Used to build the frontend of the application allowing dynamic content updates and interactive features. Material-UI: Provides a clean and responsive design using pre-built components for the user interface. Chart.js: Integrated for visualizing training data including statistics like training duration and customer participation. React Router DOM: Handles the navigation between different views (pages) of the application.
+### **Customer Management**
+- View and manage customer details, including personal information and training history.  
+- Keep track of customer-specific training sessions, ensuring all data is easily accessible.
 
-<h2>🍰 Contribution Guidelines:</h2>
+### **Training List**
+- Displays all training sessions in a clear and organized list format.  
+- Allows adding new training sessions with key details like activity type, duration, and associated customer.  
+- Enables viewing and editing of session details as needed.
 
-Fork the repository to your own GitHub account. Create a new branch and make your changes. Commit your changes and push them to your branch. Submit a pull request explaining the changes you’ve made. License This project is licensed under the MIT License allowing you to use modify and distribute the code.
+### **Calendar View**
+- Presents upcoming training sessions in a calendar format for easy scheduling and tracking.  
+- Facilitates planning and prevents overlapping or missed sessions.
+
+### **Training Statistics**
+- Visualizes key training data, such as total durations and activity popularity, using bar charts.  
+- Helps analyze customer performance and engagement trends through statistical representation.
+
+### **Search Functionality**
+- Includes a global search bar for filtering customers and training sessions based on specific criteria like customer names or activity details.  
+- Enhances usability and makes navigation seamless.
+
+### **Add Training Sessions**
+- Offers a form to add new training sessions by selecting customers, specifying activity type, duration, and time.  
+- Ensures easy updating and maintaining of session records.
+
+---
+
+<h2>🛠️ Technologies Used</h2>
+
+The project is built with modern tools and libraries to ensure efficiency, scalability, and user experience:
+
+- **React:** Enables dynamic rendering of components and interactive features across the app.  
+- **Material-UI (MUI):** Provides a clean, professional, and responsive user interface using pre-built components and styling options.  
+- **Recharts:** Integrated for creating dynamic and interactive charts to visualize training data.  
+- **React Router DOM:** Handles client-side routing for smooth navigation between different pages.  
+- **Redux:** Manages the global state to streamline data flow across components.  
+- **Lodash:** Used for data manipulation tasks like grouping and summing training durations.
+
+---
+
+<h2>🔧 Installation</h2>
+
+Follow these steps to set up the project locally:
+
+1. **Clone the Repository:**  
+   ```bash
+   git clone https://github.com/your-username/personal-trainer.git
+   cd personal-trainer
