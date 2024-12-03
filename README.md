@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Personal Trainer</h1>
 
 <p id="description">
-The Personal Trainer project is a comprehensive web application designed to streamline the management of customer training activities. This app offers an intuitive interface for tracking, managing, and analyzing training sessions while providing insightful statistics. Built using React, the project incorporates advanced features like responsive design, data visualization, and seamless navigation between pages. Material-UI is leveraged for a professional and clean UI, while Recharts is integrated for presenting meaningful statistics in the form of visual charts. The application focuses on delivering a user-friendly experience for customers and trainers alike.
+The Personal Trainer project is a comprehensive web application designed to streamline the management of customer training activities. This app offers an intuitive interface for tracking, managing, and analyzing training sessions while providing insightful statistics. Built using React, the project incorporates advanced features like responsive design, data visualization, and seamless navigation between pages. Material-UI is leveraged for a professional and clean UI, while Recharts is integrated for presenting meaningful statistics in the form of visual charts. The application focuses on delivering a user-friendly experience for customers and trainers alike. We can easily cooperate with the environmnet of the front end by adding and deleting new training. 
 </p>
 
 ---
