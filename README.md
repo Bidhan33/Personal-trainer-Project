@@ -5,7 +5,7 @@ The Personal Trainer project is a comprehensive web application designed to stre
 </p>
 
 ---
-<h2>🚀 The prroject will go under maintance after few weeks</h2>
+<h2>🚀 The project will go under maintance after few weeks</h2>
 
 <h2>🚀 Demo</h2>
 
